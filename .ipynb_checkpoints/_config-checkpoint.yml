@@ -21,8 +21,8 @@
 title: Dr. W.J.B. Mattingly
 description: >- # this means to ignore newlines until "baseurl:"
   The personal and professional website of Dr. William Mattingly
-baseurl: "wjbmattingly.com" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://wjbmattingly.com" # the base hostname & protocol for your site, e.g. http://example.com
 youtube_username: pythontutorialsfordigitalhumanities
 twitter_username: wjbmattingly
 github_username:  wjb_mattingly
