@@ -30,7 +30,7 @@ header_pages:
  - cv.md
  - consulting.md
  - public_speaking.md
- - contact.md
+ - contact-form.md
 
 # Build settings
 remote_theme: jekyll/minima 
