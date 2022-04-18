@@ -7,15 +7,13 @@ order: 2
 
 
 ## EDUCATION
-
-### UNIVERSITY OF KENTUCKY (Lexington, KY)
+**UNIVERSITY OF KENTUCKY (Lexington, KY)**
 **Ph.D. in History**, 2012–May 2020<br>
 **Advisor**: Professor Abigail Firey<br>
 **Dissertation**: ““Distance Learning” in the Ninth Century?: Micro-Cluster Analysis of the Epistolary Network of Alcuin after 796”
 
 
 ## ACADEMIC POSTS
-
 - Smithsonian Institution, Data Science Lab and the United States Holocaust Memorial Museum. October 2020–Present. Fellow for the Analysis of Historical Documents.
 
 ### FELLOWSHIPS, AWARDS, GRANTS, AND HONORS
