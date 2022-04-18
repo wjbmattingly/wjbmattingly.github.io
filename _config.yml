@@ -28,9 +28,9 @@ minima:
     youtube: PythonTutorialsforDigitalHumanities
     youtube_channel: UC5vr5PwcXiKX_-6NTteAlXw
     youtube_channel_name: Python Tutorials for DH
-    twitter: wjbmattingly
-    github:  wjb_mattingly
-    facebook: jekyll
+    twitter: wjb_mattingly
+    github:  wjbmattingly
+    facebook: wjbmattingly
 header_pages:
  - cv.md
  - consulting.md
