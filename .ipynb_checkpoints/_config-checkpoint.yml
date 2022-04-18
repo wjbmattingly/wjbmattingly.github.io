@@ -26,7 +26,6 @@ url: "https://wjbmattingly.com" # the base hostname & protocol for your site, e.
 minima:
   social_links:
     youtube: PythonTutorialsforDigitalHumanities
-    youtube_channel: UC5vr5PwcXiKX_-6NTteAlXw
     youtube_channel_name: Python Tutorials for DH
     twitter: wjb_mattingly
     github:  wjbmattingly
