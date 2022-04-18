@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Consulting
-permalink: /consulting/
+title: Teaching
+permalink: /teaching/
 ---
 
 Dr. Mattingly has experience teaching a wide array of data science, natural language processing, and history courses. If you are interested in hiring him to teach you or a group, please fill out the form below.
