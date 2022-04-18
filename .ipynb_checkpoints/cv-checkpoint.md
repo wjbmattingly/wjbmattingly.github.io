@@ -27,14 +27,15 @@ order: 2
 
 
 ## DIGITAL PROJECTS
-
-### The Bitter Aloe Project (2019-Present)
+**The Bitter Aloe Project (2019-Present)**
 - Co-Principal Investigator
 - Lead Developer
-### The Digital Alcuin Project (2019-Present)
+
+**The Digital Alcuin Project (2019-Present)**
 - Principal Investigator
 - Lead Developer
-### Classical Language Toolkit (CLTK) (2020-Present)
+
+**Classical Language Toolkit (CLTK) (2020-Present)**
 - Contributor — Named Entity Recognition Pipelines for Latin, Greek, and Old Norse
 
 
@@ -50,14 +51,14 @@ order: 2
 
 
 ## TEACHING EXPERIENCE
-### Text-Analysis Pedagogical Institute
+**Text-Analysis Pedagogical Institute**
 - Introduction to Pandas (2022)
 - Introduction to Multi-Lingual Natural Language Processing (2022)
 - Introduction to spaCy (2022)
 - Introduction to Machine Learning (Summer 2021)
 - Natural Language Processing with Ancient and Medieval Languages (Summer 2021)
 
-### University of Kentucky
+**University of Kentucky**
 - HIS 104 (Western Civ. I): Summer 2018, Summer 2019
 - WRD 110 (Writing, Rhetoric, and Digital Studies): Fall 2018 (x3)
 - HIS 105 (Western Civ. II): Spring 2016
@@ -66,11 +67,11 @@ order: 2
 
 
 ## PUBLICATIONS
-### ARTICLES:
+**ARTICLES**
 - “The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages.” Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations. https://aclanthology.org/2021.acl-demo.3.
 - “Named-Entity Dataset for Medieval Latin, Middle High German, and Old Norse.” Journal of Open Humanities Data 2021.
 
-### EDITORIAL BOARD:
+**EDITORIAL BOARD**
 - Florida Conference of Historians 18 (2011), ed. Professor Michael S. Cole.
 
 
