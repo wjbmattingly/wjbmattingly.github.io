@@ -23,11 +23,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   The personal and professional website of Dr. William Mattingly
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wjbmattingly.com" # the base hostname & protocol for your site, e.g. http://example.com
-youtube_channel: UC5vr5PwcXiKX_-6NTteAlXw
-youtube_channel_name: Python Tutorials for DH
-twitter: wjbmattingly
-github:  wjb_mattingly
-facebook: jekyll
+minima:
+  social_links:
+    youtube: PythonTutorialsforDigitalHumanities
+    youtube_channel: UC5vr5PwcXiKX_-6NTteAlXw
+    youtube_channel_name: Python Tutorials for DH
+    twitter: wjbmattingly
+    github:  wjb_mattingly
+    facebook: jekyll
 header_pages:
  - cv.md
  - consulting.md
