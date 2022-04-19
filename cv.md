@@ -16,7 +16,7 @@ order: 2
 ## ACADEMIC POSTS
 - Smithsonian Institution, Data Science Lab and the United States Holocaust Memorial Museum. October 2020–Present. Fellow for the Analysis of Historical Documents.
 
-### FELLOWSHIPS, AWARDS, GRANTS, AND HONORS
+## FELLOWSHIPS, AWARDS, GRANTS, AND HONORS
 - Harry Frank Guggenheim Distinguished Scholar. 2022-Present.
 - Smithsonian (Data Science Lab) and United States Holocaust Memorial Museum. October 2020-Present. Fellow for the Analysis of Historical Documents.
 - University of Kentucky, College of Arts and Sciences’ Outstanding Teaching Award, April 2017.This award is given to four students in the Arts and Sciences and recognized my strong teaching skills.
