@@ -3,7 +3,7 @@ layout: page
 title: Consulting
 permalink: /consulting/
 ---
-Dr. Mattingly can be hired as a consultant. He has worked with data scientists, archivists, medical professionals, social scientists, geographers, and historians. He specializes in data cleaning, machine learning, natural language processing, social network analysis, and text analysis. He can read, with varying degrees of competence, over ten languages. He can bring this broad linguistic knowledge and background in machine learning to your project. If you are interested in hiring him, please fill our the form below.
+Dr. Mattingly can be hired as a consultant. He has worked with data scientists, archivists, medical professionals, social scientists, geographers, and historians. He specializes in data cleaning, machine learning, natural language processing, social network analysis, and text analysis. He can read, with varying degrees of competence, over ten languages. He can bring this broad linguistic knowledge and background in machine learning to your project. If you are interested in hiring him, please fill out the form below.
 
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/6457b6073fed8de0b55c871a3470066b?embedded=1"></div>
 
