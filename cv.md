@@ -19,7 +19,7 @@ order: 2
 ## FELLOWSHIPS, AWARDS, GRANTS, AND HONORS
 - Harry Frank Guggenheim Distinguished Scholar. 2022-Present.
 - Smithsonian (Data Science Lab) and United States Holocaust Memorial Museum. October 2020-Present. Fellow for the Analysis of Historical Documents.
-- University of Kentucky, College of Arts and Sciences’ Outstanding Teaching Award, April 2017.This award is given to four students in the Arts and Sciences and recognized my strong teaching skills.
+- University of Kentucky, College of Arts and Sciences’ Outstanding Teaching Award, April 2017. This award is given to four students in the Arts and Sciences and recognized my strong teaching skills.
 - University of Tennessee, Marco (Medieval and Renaissance Studies) Symposium, "Carolingian Experiments," Graduate Student Stipend, March 2017.
 - Research and Travel Grant, to the Dublin Institute for Advanced Study, Florida Gulf Coast University, 3 June – 20 July 2011.
 
