@@ -20,3 +20,29 @@ During his time at the Smithsonian, he has authored five non-peer reviewed textb
 These textbooks are designed to work alongside his on-going digital project, *[Python Tutorials for Digital Humanities](https://www.youtube.com/pythontutorialsfordigitalhumanities)*
 
 Mattingly is a medievalist by training. He completed my Ph.D. in History at the University of Kentucky in May 2020. There, his research looked closely at Carolingian intellectual networks, Scriptural exegesis, Alcuin (d. 804), and the city of Tours, France. That research is the foundation for an on-going digital project, *[The Digital Alcuin Project](https:\\www.digitalalcuin.com)* which provides all of Alcuin's letters as raw text with metadata. The current app is in alpha-testing with much of the metadata requiring manual validation.
+<br>
+<div class="social-media">
+<data class="u-url" href="/"></data>
+
+<div class="wrapper">
+
+  <div class="social-links">
+    <ul class="social-media-list">
+      <li><a rel="me" href="https://www.facebook.com/wjbmattingly" target="_blank" title="wjbmattingly">
+    <svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg>
+    </a></li>
+    <li><a rel="me" href="https://github.com/wjbmattingly" target="_blank" title="wjbmattingly">
+    <svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg></a>
+      </li>
+    <li>
+      <a rel="me" href="https://twitter.com/wjb_mattingly" target="_blank" title="wjb_mattingly"><svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg></a></li>
+    <li><a rel="me" href="https://www.youtube.com/PythonTutorialsforDigitalHumanities" target="_blank" title="PythonTutorialsforDigitalHumanities"><svg class="svg-icon grey"><use xlink:href="/assets/minima-social-icons.svg#youtube"></use></svg></a>
+    </li>
+    </ul>
+</div>
+
+</div>
+
+</div>
+</div>
