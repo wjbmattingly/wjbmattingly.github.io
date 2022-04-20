@@ -45,4 +45,3 @@ Mattingly is a medievalist by training. He completed my Ph.D. in History at the 
 </div>
 
 </div>
-</div>
