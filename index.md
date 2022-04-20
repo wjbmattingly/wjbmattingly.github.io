@@ -30,6 +30,7 @@ layout: home
 </div>
 <br>
 <br>
+<br>
 <img src="/images/wjb mattingly.jpg" align="right" width="200px" hspace="25"/>
 Dr. William Mattingly is a 2022 Harry Frank Guggenheim Distinguished Scholar for his work as co-principal investigator and lead developer for the *[Bitter Aloe Project](https://bitteraloeproject.createuky.net)* which examines testimonies of violence from South Africa's Truth and Reconciliation Commission. He is currently the [Postdoctoral Fellow for the Analysis of Historical Documents](https://datascience.si.edu/people/dr-william-mattingly) at the Smithsonian Institution's [Data Science Lab](https://datascience.si.edu/). Mattingly currently works on two projects at the Smithsonian. The first is based at the United States Holocaust Memorial Museum (USHMM), where he is developing a robust pipeline of machine learning image classification and natural language processing (NLP) models to automate the cataloging of millions of images. At the Smithsonian, he is working on a project connected to the American Women's History Initiative. Here, he is developing machine learning and heuristic pipelines with spaCy, a Python NLP library. This pipeline will identify women in Smithsonian documents and automatically extract knowledge about them so that we can better understand the influential role women played at the Smithsonian.
 <br clear="center"/>
