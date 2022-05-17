@@ -7,7 +7,7 @@ order: 2
 
 
 ## EDUCATION
-**UNIVERSITY OF KENTUCKY (Lexington, KY)**<br>
+**UNIVERSITY OF KENTUCKY**<br>
 **Ph.D. in History**, 2020<br>
 **Advisor**: Professor Abigail Firey<br>
 **Dissertation**: "Distance Learning" in the Ninth Century?: Micro-Cluster Analysis of the Epistolary Network of Alcuin after 796"
