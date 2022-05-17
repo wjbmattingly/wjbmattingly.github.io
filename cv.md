@@ -47,8 +47,6 @@ order: 2
 - "Redefining Macc Surety in Early Irish Law," paper presented at the special session "The Basics of Medieval Ireland (A Round Table)" at the 47th International Congress on Medieval Studies, Western Michigan University, 10-13 May 2012.
 - Chair and Commentator of the Panel "State Power and Cultural Repression: Art and Religion in Stalinist Russia and Nazi Germany," at the Ohio Valley History Conference 6-8 October 2011.
 - "Defining Macc Surety in Early Irish Law," paper presented at the 51st Florida Conference of Historians 14-16 April 2011.
-- "Can’t We All Just Get Along? The Difference between Greek and Roman Stasis," presented at the 50th Florida Conference of Historians, Tallahassee Community College, 18-20 February 2010.
-- "How Greek Mythology Influenced the Irish Mythological Cycle," paper presented at the 48th Florida Conference of Historians, Florida Gulf Coast University, 27-28 February 2009.
 
 
 ## TEACHING EXPERIENCE
