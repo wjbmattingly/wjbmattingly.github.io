@@ -38,15 +38,12 @@ order: 2
 - Maintainer
 - Contributor for Named Entity Recognition Pipelines for Latin, Greek, and Old Norse
 
-
-## CONFERENCES
-- "Representing Early Medieval Sources in Machine Learning: Natural Language Processing and Early Medieval Languages," presented at the 57th International Congress on Medieval Studies, Western Michigan University , 9-14 May 2022.
-- "The Applications of Python for Analysis of Early Medieval Texts with a Micro-Examination of the Corpus of Alcuin’s Letters," paper presented at the 19th Vagantes Conference, University of Connecticut, 18-20 March 2020
-- "The Carolingian Network of Exegetes: An Examination with Cluster Analysis," paper presented at 18th Vagantes Conference, University of Kentucky, 20–23 March 2019.
-- "From Chaste Widow to Bellatrix: The Increasing Significance of Judith’s Beheading of Holofernes in the Early Middle Ages," paper presented at the session "Medieval Biblical Exegesis" at the 22nd Bluegrass Symposium, University of Kentucky, 22-23 February 2013.
-- "Redefining Macc Surety in Early Irish Law," paper presented at the special session "The Basics of Medieval Ireland (A Round Table)" at the 47th International Congress on Medieval Studies, Western Michigan University, 10-13 May 2012.
-- Chair and Commentator of the Panel "State Power and Cultural Repression: Art and Religion in Stalinist Russia and Nazi Germany," at the Ohio Valley History Conference 6-8 October 2011.
-- "Defining Macc Surety in Early Irish Law," paper presented at the 51st Florida Conference of Historians 14-16 April 2011.
+## PUBLICATIONS
+**PEER-REVIEWED BOOKS**
+- *Introduction to Python for Digital Humanists* Under Contract with Routledge (2022)
+**ARTICLES**
+- "The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages." Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations. https://aclanthology.org/2021.acl-demo.3.
+- "Named-Entity Dataset for Medieval Latin, Middle High German, and Old Norse." Journal of Open Humanities Data 2021.
 
 
 ## TEACHING EXPERIENCE
@@ -65,12 +62,14 @@ order: 2
 - HIS 109 (History of the US Since 1877): Spring 2012
 
 
-## PUBLICATIONS
-**PEER-REVIEWED BOOKS**
-- *Introduction to Python for Digital Humanists* Under Contract with Routledge (2022)
-**ARTICLES**
-- "The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages." Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations. https://aclanthology.org/2021.acl-demo.3.
-- "Named-Entity Dataset for Medieval Latin, Middle High German, and Old Norse." Journal of Open Humanities Data 2021.
+## CONFERENCES
+- "Representing Early Medieval Sources in Machine Learning: Natural Language Processing and Early Medieval Languages," presented at the 57th International Congress on Medieval Studies, Western Michigan University , 9-14 May 2022.
+- "The Applications of Python for Analysis of Early Medieval Texts with a Micro-Examination of the Corpus of Alcuin’s Letters," paper presented at the 19th Vagantes Conference, University of Connecticut, 18-20 March 2020
+- "The Carolingian Network of Exegetes: An Examination with Cluster Analysis," paper presented at 18th Vagantes Conference, University of Kentucky, 20–23 March 2019.
+- "From Chaste Widow to Bellatrix: The Increasing Significance of Judith’s Beheading of Holofernes in the Early Middle Ages," paper presented at the session "Medieval Biblical Exegesis" at the 22nd Bluegrass Symposium, University of Kentucky, 22-23 February 2013.
+- "Redefining Macc Surety in Early Irish Law," paper presented at the special session "The Basics of Medieval Ireland (A Round Table)" at the 47th International Congress on Medieval Studies, Western Michigan University, 10-13 May 2012.
+- Chair and Commentator of the Panel "State Power and Cultural Repression: Art and Religion in Stalinist Russia and Nazi Germany," at the Ohio Valley History Conference 6-8 October 2011.
+- "Defining Macc Surety in Early Irish Law," paper presented at the 51st Florida Conference of Historians 14-16 April 2011.
 
 
 ## INVITED TALKS
