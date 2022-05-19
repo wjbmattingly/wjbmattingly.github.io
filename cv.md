@@ -66,6 +66,8 @@ order: 2
 
 
 ## PUBLICATIONS
+**PEER-REVIEWED BOOKS**
+- *Introduction to Python for Digital Humanists* Under Contract with Routledge (2022)
 **ARTICLES**
 - "The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages." Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: System Demonstrations. https://aclanthology.org/2021.acl-demo.3.
 - "Named-Entity Dataset for Medieval Latin, Middle High German, and Old Norse." Journal of Open Humanities Data 2021.

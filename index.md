@@ -17,7 +17,7 @@ During his time at the Smithsonian, he has authored five non-peer reviewed textb
 - *[Introduction to Pandas (2021)](https://pandas.pythonhumanities.com)*
 - *[Introduction to Named Entity Recognition (2020)](https://ner.pythonhumanities.com)*
 
-These textbooks are designed to work alongside his on-going digital project, *[Python Tutorials for Digital Humanities](https://www.youtube.com/pythontutorialsfordigitalhumanities)*
+These textbooks will be published as *Introduction to Python for Humanists* with Routledge in 2022 under the CRC Data Science, Stats, and Math series. These textbooks are designed to work alongside his on-going digital project, *[Python Tutorials for Digital Humanities](https://www.youtube.com/pythontutorialsfordigitalhumanities)*
 
 Mattingly is a medievalist by training. He completed my Ph.D. in History at the University of Kentucky in May 2020. There, his research looked closely at Carolingian intellectual networks, Scriptural exegesis, Alcuin (d. 804), and the city of Tours, France. That research is the foundation for an on-going digital project, *[The Digital Alcuin Project](https:\\www.digitalalcuin.com)* which provides all of Alcuin's letters as raw text with metadata. The current app is in alpha-testing with much of the metadata requiring manual validation.
 <br>
