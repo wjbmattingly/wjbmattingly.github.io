@@ -40,7 +40,7 @@ order: 2
 
 ## PUBLICATIONS
 **PEER-REVIEWED BOOKS**
-- *Introduction to Python for Digital Humanists* Under Contract with Routledge (2022)
+- *Introduction to Python for Digital Humanists* (under Contract with Routledge - 2022)
 
 
 **ARTICLES**
