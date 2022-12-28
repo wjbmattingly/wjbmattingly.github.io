@@ -31,6 +31,7 @@ minima:
     github:  wjbmattingly
     facebook: wjbmattingly
 header_pages:
+ - projects.md
  - cv.md
  - consulting.md
  - teaching.md
@@ -38,7 +39,7 @@ header_pages:
  - contact-form.md
 
 # Build settings
-remote_theme: jekyll/minima 
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 

@@ -2,19 +2,15 @@
 layout: page
 title: CV
 permalink: /cv/
-order: 2
+order: 3
 ---
 
 
-## EDUCATION
-**UNIVERSITY OF KENTUCKY**<br>
-**Ph.D. in History**, 2020<br>
-**Advisor**: Professor Abigail Firey<br>
-**Dissertation**: "Distance Learning" in the Ninth Century?: Micro-Cluster Analysis of the Epistolary Network of Alcuin after 796"
-
-
-## ACADEMIC POSTS
-- Smithsonian Institution, Data Science Lab and the United States Holocaust Memorial Museum. October 2020–Present. Fellow for the Analysis of Historical Documents.
+## ACADEMIA
+Current Position: Postdoc Fellow for the Analysis of Historical Documents at Smithsonian Institution, Data Science Lab and the United States Holocaust Memorial Museum.
+- 2020: PhD in Medieval History at the University of Kentucky
+- 2012: M.A. in History at Florida Gulf Coast University
+- 2010: B.A. in History at Florida Gulf Coast University
 
 ## FELLOWSHIPS, AWARDS, GRANTS, AND HONORS
 - [American Counil of Learned Societies Grantee](https://www.acls.org/fellow-grantees/william-mattingly/). 2022-Present.
@@ -26,17 +22,10 @@ order: 2
 
 
 ## DIGITAL PROJECTS
-**The Bitter Aloe Project (2019-Present)**
-- Co-Principal Investigator
-- Lead Developer
-
-**The Digital Alcuin Project (2019-Present)**
-- Principal Investigator
-- Lead Developer
-
-**Classical Language Toolkit (CLTK) (2020-Present)**
-- Maintainer
-- Contributor for Named Entity Recognition Pipelines for Latin, Greek, and Old Norse
+- Python Tutorials for Digital Humanities (2018-Present)
+- The Bitter Aloe Project (2019-Present)
+- The Digital Alcuin Project (2019-Present)
+- Classical Language Toolkit (CLTK) (2020-Present)
 
 ## PUBLICATIONS
 **PEER-REVIEWED BOOKS**
