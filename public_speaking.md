@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public Speaking
+title: Speaking
 permalink: /public-speaking/
 ---
 

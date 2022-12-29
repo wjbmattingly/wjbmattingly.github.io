@@ -1,6 +1,6 @@
 ---
 layout: page
-title: General Contact
+title: Contact
 permalink: /contact-form/
 ---
 To contact Dr. Mattingly for reasons other than consulting or public speaking, please fill out the form below:
