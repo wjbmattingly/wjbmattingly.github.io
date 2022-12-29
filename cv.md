@@ -8,7 +8,7 @@ order: 3
 
 ## ACADEMIA
 Current Position: Postdoc Fellow for the Analysis of Historical Documents at Smithsonian Institution, Data Science Lab and the United States Holocaust Memorial Museum.
-- 2020: PhD in Medieval History at the University of Kentucky
+- 2020: Ph.D. in Medieval History at the University of Kentucky
 - 2012: M.A. in History at Florida Gulf Coast University
 - 2010: B.A. in History at Florida Gulf Coast University
 
@@ -22,6 +22,9 @@ Current Position: Postdoc Fellow for the Analysis of Historical Documents at Smi
 
 
 ## DIGITAL PROJECTS
+- Vulgata spaCy (2022-Present)
+- Streamlit Pandas (2022-Present)
+- LeetTopic (2022-Present)
 - Python Tutorials for Digital Humanities (2018-Present)
 - The Bitter Aloe Project (2019-Present)
 - The Digital Alcuin Project (2019-Present)

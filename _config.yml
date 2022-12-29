@@ -25,11 +25,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wjbmattingly.com" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   social_links:
-    youtube: PythonTutorialsforDigitalHumanities
-    youtube_channel_name: Python Tutorials for DH
-    twitter: wjb_mattingly
-    github:  wjbmattingly
-    facebook: wjbmattingly
+    - { platform: youtube, user_url : "www.youtube.com/PythonTutorialsforDigitalHumanities" }
+    - { platform: twitter, user_url: "www.twitter.com/wjb_mattingly"}
+    - { platform: github, user_url: "www.github.com/wjbmattingly"}
+    - { platform: facebook, user_url: "www.facebook.com/wjbmattingly"}
+
 header_pages:
  - projects.md
  - cv.md
