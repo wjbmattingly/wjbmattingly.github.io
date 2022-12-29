@@ -18,7 +18,7 @@ border: none;
  </tr>
  <tr>
     <td> <img src="https://github.com/wjbmattingly/vulgata-spacy/raw/main/images/logo.png"></td>
-    <td><h2><a href="https://github.com/wjbmattingly/vulgata-spacy">Vulgata spaCy</a></h2><br>This is a digital project designed to help humanists and non-programmers learn to code in Python.</td>
+    <td><h2><a href="https://github.com/wjbmattingly/vulgata-spacy">Vulgata spaCy</a></h2><br>Vulgata spaCy is a library built upon spaCy to automate the identification and extraction of potential Biblical quotes in medieval Latin texts.</td>
  </tr>
  <tr>
     <td> <img src="https://github.com/wjbmattingly/streamlit-pandas/raw/main/images/streamlit-pandas-logo-blue.png"></td>
