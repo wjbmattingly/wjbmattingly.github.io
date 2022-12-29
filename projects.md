@@ -4,7 +4,13 @@ title: Projects
 permalink: /projects/
 order: 2
 ---
-
+<style>
+table, tr, td, th{
+padding: 10px;
+margin: auto;
+border: none;
+}
+</style>
 <table>
  <tr>
     <td> <img src="https://yt3.ggpht.com/ytc/AMLnZu8FTr94PPWte0tSzJTJhhbC7fQKF-3PvEqXzgDEaA=s900-c-k-c0x00ffffff-no-rj"></td>
