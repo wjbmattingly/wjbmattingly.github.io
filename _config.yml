@@ -32,11 +32,13 @@ minima:
 
 header_pages:
  - projects.md
+ - tools.md
  - cv.md
- - consulting.md
- - teaching.md
- - public_speaking.md
+ # - consulting.md
+ # - teaching.md
+ # - public_speaking.md
  - contact-form.md
+
 
 # Build settings
 remote_theme: jekyll/minima

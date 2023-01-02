@@ -8,10 +8,10 @@ order: 2
 table, tr, td, th{
 padding: 10px;
 margin: auto;
-border: none;
+border-style : hidden!important;
 }
 </style>
-<table>
+<table rules=none>
  <tr>
     <td> <img src="https://yt3.ggpht.com/ytc/AMLnZu8FTr94PPWte0tSzJTJhhbC7fQKF-3PvEqXzgDEaA=s900-c-k-c0x00ffffff-no-rj"></td>
     <td> <h2><a href="https://www.youtube.com/pythontutorialsfordigitalhumanities">Python Tutorials for DH</a></h2><br>This is a digital project designed to help humanists and non-programmers learn to code in Python.</td>
