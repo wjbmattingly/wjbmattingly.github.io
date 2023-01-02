@@ -28,4 +28,8 @@ border-style : hidden!important;
     <td> <img src="https://github.com/wjbmattingly/LeetTopic/raw/main/images/LeeTopic.png"></td>
     <td> <h2><a href="https://github.com/wjbmattingly/leet-topic">LeetTopic</a></h2><br>This is a Python library for doing transformer-based topic modeling. It also generates a stand-alone HTML application for analyzing a topic model.</td>
  </tr>
+ <tr>
+    <td> <img src="https://github.com/wjbmattingly/biospacy/raw/main/images/biospacy-logo.png"></td>
+    <td> <h2><a href="https://github.com/wjbmattingly/biospacy">BioSpaCy</a></h2><br>BioSpaCy is a spacy pipeline for processing biology texts. Currently, the pipeline can identify taxonomic data within unstructured texts.</td>
+ </tr>
 </table>
