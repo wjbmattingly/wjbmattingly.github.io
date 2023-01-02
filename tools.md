@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Tools
+permalink: /tools/
 order: 2
 ---
 <style>
