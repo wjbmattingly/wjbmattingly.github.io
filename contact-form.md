@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact-form/
 ---
-To contact Dr. Mattingly for reasons other than consulting or public speaking, please fill out the form below:
+To contact Dr. Mattingly for consulting, public speaking, or teaching, please use the form below.
 
 <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/17171553d6899ef025a8d00d6fd9d995?embedded=1"></div>
 
