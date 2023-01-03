@@ -8,6 +8,7 @@ order: 3
 
 ## ACADEMIA
 Current Position: Postdoc Fellow for the Analysis of Historical Documents at Smithsonian Institution, Data Science Lab and the United States Holocaust Memorial Museum.
+<br>
 - 2020: Ph.D. in Medieval History at the University of Kentucky
 - 2012: M.A. in History at Florida Gulf Coast University
 - 2010: B.A. in History at Florida Gulf Coast University
