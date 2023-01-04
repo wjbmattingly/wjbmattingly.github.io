@@ -22,7 +22,7 @@ border-style : hidden!important;
  </tr>
  <tr>
     <td> <img src="https://github.com/wjbmattingly/ww2-spacy/raw/main/images/logo.png"></td>
-    <td><h2><a href="https://github.com/wjbmattingly/ww2-spacy">Vulgata spaCy</a></h2><br>WW2 spaCyis a pipeline for processing primary and secondary sources for World War 2 and performing named entity recognition (NER). Currently, the pipeline is focused on United States-based military NER with plans to expand to include other countries in the near future.</td>
+    <td><h2><a href="https://github.com/wjbmattingly/ww2-spacy">WW2 spaCy</a></h2><br>WW2 spaCyis a pipeline for processing primary and secondary sources for World War 2 and performing named entity recognition (NER). Currently, the pipeline is focused on United States-based military NER with plans to expand to include other countries in the near future.</td>
  </tr>
  <tr>
     <td> <img src="https://github.com/wjbmattingly/streamlit-pandas/raw/main/images/streamlit-pandas-logo-blue.png"></td>
