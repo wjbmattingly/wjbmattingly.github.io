@@ -14,7 +14,7 @@ Current Position: Postdoc Fellow for the Analysis of Historical Documents at Smi
 - 2010: B.A. in History at Florida Gulf Coast University
 
 ## FELLOWSHIPS, AWARDS, GRANTS, AND HONORS
-- [American Counil of Learned Societies Grantee](https://www.acls.org/fellow-grantees/william-mattingly/). 2022-Present.
+- [American Council of Learned Societies Grantee](https://www.acls.org/fellow-grantees/william-mattingly/). 2022-Present.
 - Harry Frank Guggenheim Distinguished Scholar. 2022-Present.
 - Smithsonian (Data Science Lab) and United States Holocaust Memorial Museum. October 2020-Present. Fellow for the Analysis of Historical Documents.
 - University of Kentucky, College of Arts and Sciences’ Outstanding Teaching Award, April 2017. This award is given to four students in the Arts and Sciences and recognized my strong teaching skills.
