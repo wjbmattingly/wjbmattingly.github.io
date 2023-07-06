@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>W.J.B. Mattingly</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<header>
+    <h1>Dr. William J.B. Mattingly</h1>
+    <nav>
+        
+      <ul>
+        <!-- <li><a href="#projects">Projects</a></li>
+        <li><a href="#tools">Tools</a></li>
+        <li><a href="#cv">CV</a></li> -->
+      </ul>
+      <a class="button" href="#consultation">Request Consultation</a>
+    </nav>
+  </header>
+  
+<body>
+    <main>
+        <section id="about">
+                </div>
+                <div class="about-image">
+                <!-- Your image goes here -->
+                <img src="images/wjbmattingly.jpg" alt="Your Image">
+                </div>
+            </div>
+            <div class="about-content">
+              <div class="about-text">
+                <!-- Tech icons and text go here -->
+                <div class="tech">
+                  <img src="images/ml.png" alt="Icon 1">
+                  <div class="tech-content">
+                    <h3>Applied Machine Learning</h3>
+                    <p>3+ years of experience applying machine learning to historical documents</p>
+                  </div>
+                </div>
+                <div class="tech">
+                  <img src="images/nlp.png" alt="Icon 1">
+                  <div class="tech-content">
+                    <h3>Natural Language processing</h3>
+                    <p>3+ years of experience developing spaCy NLP pipelines.</p>
+                  </div>
+                </div>
+                <div class="tech">
+                    <img src="images/research.png" alt="Icon 1">
+                    <div class="tech-content">
+                      <h3>Research</h3>
+                      <p>Ph.D in History and 2+ years experience as a postdoc in the Smithsonian Institution's Data Science Lab.</p>
+                    </div>
+                  </div>
+                  <div class="tech">
+                    <img src="images/sna.png" alt="Icon 1">
+                    <div class="tech-content">
+                      <h3>Social Network Analysis</h3>
+                      <p>5+ years of experience doing social network analysis</p>
+                    </div>
+                  </div>
+                  <div class="tech">
+                    <img src="images/content.png" alt="Icon 1">
+                    <div class="tech-content">
+                      <h3>Content Producer</h3>
+                      <p>5+ years of experience producing technical content on YouTube.</p>
+                    </div>
+                  </div>
+                <!-- Repeat for each tech icon and project -->
+              </div>
+              <!-- <div class="tech">
+                <img src="computer.png" alt="Icon 1">
+                <div class="tech-content">
+                  <h3>Social Network Analysis</h3>
+                  <p>6+ years researching social network analysis.</p>
+                </div>
+              </div> -->
+            <!-- Repeat for each tech icon and project -->
+            
+          </section>
+          
+        
+        <h1>OPEN-SOURCE PROJECTS</h1>
+        <section id="projects">
+            <!-- Project images and links go here -->
+            <div class="project">
+                <a href="https://github.com/wjbmattingly/LeetTopic">
+                    <img src="images/leettopic.png" alt="LeetTopic">
+                    <!-- <h2>LeetTopic</h2> -->
+                    <p>LeetTopic is a transformer-based topic modeling library that lets users cluster documents and analyze the results in an auto-generated stand alone Bokeh application.</p>
+                </a>
+            </div>
+            <div class="project">
+                <a href="https://github.com/wjbmattingly/streamlit-pandas">
+                    <img src="images/streamlit-pandas.png" alt="Streamlit Pandas">
+                    <!-- <h2>Project 2</h2> -->
+                    <p>Streamlit Pandas allows users to automatically generate an entire Streamlit application from a single Pandas DataFrame. Users can specify how to handle specific columns as manipulatable widgets.</p>
+                </a>
+            </div>
+            <div class="project">
+                <a href="https://github.com/wjbmattingly/ww2-spacy">
+                    <img src="images/ww2-spacy.png" alt="WW2 spaCy">
+                    <!-- <h2>Project 3</h2> -->
+                    <p>WW2 spaCy is a rules-based spaCy pipeline for processing WW2 texts. It identifies specific types of military equipment and personnel.</p>
+                </a>
+            </div>
+        </section>
+        <h1>YOUTUBE VIDEOS</h1>
+        <section id="videos">
+            <!-- Video thumbnails go here -->
+            <div class="video-carousel" id="video-carousel">
+                <!-- Images and links will be inserted here by JavaScript -->
+            </div>
+        </section>
+        <h1>CONSULTING</h1>
+        <section id="consultation">
+            <p>Dr. Mattingly can be hired as a consultant. He has worked with data scientists, archivists, medical professionals, social scientists, geographers, and historians. He specializes in data cleaning, machine learning, natural language processing, social network analysis, and text analysis. He can read, with varying degrees of competence, over ten languages. He can bring this broad linguistic knowledge and background in machine learning to your project. If you are interested in hiring him, please fill out the form below.</p><br>
+            <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/6457b6073fed8de0b55c871a3470066b?embedded=1"></div>
+
+            <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+            <script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
+            
+            <!-- Get notified when the form is submitted, add your own code below: -->
+            <script>
+            const formkeepEmbed = document.querySelector('#formkeep-embed')
+            
+            formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
+              console.log('Submitting form...')
+            })
+            
+            formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
+              console.log('Submitted form...')
+            })
+            </script>
+    </main>
+    
+    <footer>
+        <!-- Footer content goes here -->
+    </footer>
+    <script src="carousel.js"></script>
+    <script src="loadVideos.js"></script>
+</body>
+</html>

@@ -1,0 +1,270 @@
+body {
+    font-family: 'Spectral', serif;
+    color: #333;
+    line-height: 1.6;
+    font-size: 20px;
+}
+
+main {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    border-bottom: 1px solid #ccc;
+    padding: 20px 0;
+}
+
+h1, h2 {
+    color: #444;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#about {
+    padding: 50px;
+    display: flex;
+    align-items: center; /* Center vertically */
+  }
+  
+  #about .about-content {
+    display: flex;
+    align-items: center; /* Center vertically */
+    width: 100%;
+  }
+  
+  #about .about-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-right: 10px;
+  }
+  
+  #about .about-image {
+    width: 70%;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    overflow: hidden;
+    border-radius: 20px; /* Add rounded edges */
+    box-shadow: 10px 10px 5px grey;
+  }
+  
+  
+  #about .tech {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 10%;
+  }
+  
+  #about .tech img {
+    height: auto;
+    max-height: 75px;
+    width: auto;
+    max-width: 100%;
+    margin-right: 20px;
+    object-fit: contain;
+  }
+  
+  #about .tech-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 1;
+  }
+  
+  #about .tech-content h3 {
+    margin-bottom: 0;
+  }
+  
+  #about .tech-content p {
+    margin-top: 0;
+  }
+  
+  #about .about-image img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+  }
+  
+  #about .about-image {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    overflow: hidden;
+  }
+  
+  #about .about-image p {
+    margin-top: 10px;
+  }
+  
+
+#projects {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    background-color:rgba(250, 234, 223, 0.7);
+}
+
+.project {
+    width: 30%;
+    box-shadow: 10px 10px 5px grey;
+    transition: box-shadow 0.3s ease;
+    background-color:rgba(255, 251, 251, 0.7);
+}
+
+.project:hover {
+    box-shadow: 5px 5px 5px grey;
+}
+
+.project a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.project img {
+    width: 100%;
+}
+
+.project h2, .project p {
+    text-align: left;
+}
+
+#videos {
+    display: flex;
+    overflow: auto;
+    padding: 50px;
+}
+
+#videos iframe {
+    flex: 0 0 auto;
+    width: 200px;
+    height: 150px;
+    margin-right: 10px;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.video-carousel {
+    display: flex;
+    overflow: auto;
+    gap: 20px;
+}
+
+.video-carousel a {
+    flex: 0 0 auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.video-carousel img {
+    max-height: 250px;
+    width: auto;
+}
+
+
+
+main {
+    margin-top: 80px; /* Increase the margin value as needed */
+    padding-top: 80px; /* or use padding instead of margin, adjust as needed */
+  }
+
+  
+  header {
+    background-color: #000;
+    padding: 30px;
+    box-shadow: 0 10px 8px rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header nav ul li:last-child {
+    margin-right: 0;
+  }
+  
+  header h1 {
+    color:#fff;
+    margin: 0;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  header nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #fff;
+  }
+  
+  header nav ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header nav ul li:not(:last-child) {
+    margin-right: 20px;
+  }
+  
+  header nav ul li:last-child {
+    margin-right: 40px; /* Adjust the margin value as needed */
+  }
+  
+  header nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+  
+  header nav .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #993916;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    white-space: nowrap; /* Prevent button from wrapping */
+    overflow: hidden; /* Hide overflowing content */
+    text-overflow: ellipsis; /* Show ellipsis for overflowing content */
+    margin-right: 50px;
+  }
+  
+  header nav .button:hover {
+    background-color: #a6330c;
+  }
+  
+  #consultation {
+    background-color:rgba(250, 234, 223, 0.7);
+}
