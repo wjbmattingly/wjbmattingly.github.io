@@ -1,174 +1,495 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>W.J.B. Mattingly</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. WJB Mattingly</title>
+    
+    <link rel="stylesheet" href="style.css">
+    
+    <link rel="stylesheet" href="mediaqueries.css">
+    
 </head>
 <body>
-    <header>
-        <h1>Dr. William J.B. Mattingly</h1>
-        <nav>
-            <ul>
-                <!-- <li><a href="#projects">Projects</a></li>
-                <li><a href="#tools">Tools</a></li>
-                <li><a href="#cv">CV</a></li> -->
+    <!-- Desktop Navigation -->
+    <nav id="desktop-nav">
+        <div class="logo">William Mattingly, PhD</div>
+        <div>
+            <ul class="nav-links">
+                
+                <li><a href="#about">About</a></li>
+                
+                <li><a href="#experience">Experience</a></li>
+                
+                <li><a href="#projects">Projects</a></li>
+                
+                <li><a href="#contact">Contact</a></li>
+                
             </ul>
-            <a class="button" href="#consultation">Request Consultation</a>
-        </nav>
-    </header>
-    <main>
-        <section id="about">
-            <div class="about-image">
-                <!-- Your image goes here -->
-                <img src="images/wjb_mattingly.jpeg" alt="Your Image">
+        </div>
+    </nav>
+    <!-- Mobile Navigation -->
+    <nav id="hamburger-nav">
+        <div class="logo">WJB Mattingly</div>
+        <div class="hamburger-menu">
+            <div class="hamburger-icon" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
-            <div class="about-content">
-                <div class="about-text">
-                    <!-- Tech icons and text go here -->
-                    <div class="tech">
-                        <img src="images/ml.png" alt="Icon 1">
-                        <div class="tech-content">
-                            <h3>Applied Machine Learning</h3>
-                            <p>3+ years of experience applying machine learning to historical documents</p>
+            <ul class="menu-links">
+                
+                <li><a href="#about" onclick="toggleMenu()">About</a></li>
+                
+                <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
+                
+                <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+                
+                <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
+                
+            </ul>
+        </div>
+    </nav>
+    <!-- Profile Section -->
+    <section id="profile">
+        <div class="section__pic-container">
+            <img src="./assets/wjb_mattingly.png" alt="William Mattingly, PhD">
+        </div>
+        <div class="section__text">
+            <p class="section__text__p1">Hello, I'm</p>
+            <h1 class="title">William Mattingly, PhD</h1>
+            <p class="section__text__p2">Natural Language Processing Engineer</p>
+            <div class="btn-container">
+                
+                <button class="btn btn-color-1" onclick="location.href='https://datascience.si.edu/people/dr-william-mattingly'">Smithsonian</button>
+                
+                <button class="btn btn-color-2" onclick="location.href='https://www.youtube.com/pythontutorialsfordigitalhumanities'">YouTube</button>
+                
+            </div>
+            <div id="socials-container">
+                
+                <img src="./assets/linkedin.png" alt="My LinkedIn profile" class="icon" onclick="location.href='https://www.linkedin.com/in/wjbmattingly/'">
+                
+                <img src="./assets/github.png" alt="My GitHub profile" class="icon" onclick="location.href='https://wjbmattingly.github.com/'">
+                
+            </div>
+        </div>
+    </section>
+<!-- About Section -->
+<section id="about">
+    <p class="section__text__p1">Get To Know More</p>
+    <h1 class="title">About Me</h1>
+    <div class="section-container">
+        <div class="section__pic-container">
+            <img src="./assets/about-me.png" alt="Profile picture" class="about-pic">
+        </div>
+        <div class="about-details-container">
+            <div class="about-containers">
+                
+                <div class="details-container">
+                    <img src="./assets/experience.png" alt="Experience icon" class="icon">
+                    <h3>Experience</h3>
+                    <p>5+ years<br>Natural Language Processing Engineer and Project Leader</p>
+                </div>
+                
+                <div class="details-container">
+                    <img src="./assets/education.png" alt="Education icon" class="icon">
+                    <h3>Education</h3>
+                    <p>PhD in History<br>M.A. in History<br>B.A. in History</p>
+                </div>
+                
+            </div>
+            <div class="text-container">
+                I develop ethical AI systems for historical archives. My primary area of research is applied machine learning to archival records. I focus on the application of natural language processing methods on multilingual archives. At the Bitter Aloe Project, I am developing methods for knowledge extraction from documents produced by the South African Truth and Reconciliation Commission (TRC). At the United States Holocaust Memorial Museum, I am exploring how we can develop semantic search to allow researchers to discover documents more effectively. At the Smithsonian, I developing methods for identifying women in records.
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Experience Section -->
+<section id="experience">
+    <p class="section__text__p1">Explore My</p>
+    <h1 class="title">Experience</h1>
+    <div class="experience-details-container">
+        
+        
+            
+                
+                <div class="about-containers"> <!-- Open a new about-containers div every two categories -->
+            
+            <div class="details-container">
+                <h2 class="experience-sub-title">Programming</h2>
+                <div class="article-container">
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Python icon" class="icon">
+                        <div>
+                            <h3>Python</h3>
+                            <p>Expert</p>
                         </div>
-                    </div>
-                    <div class="tech">
-                        <img src="images/nlp.png" alt="Icon 1">
-                        <div class="tech-content">
-                            <h3>Natural Language Processing</h3>
-                            <p>3+ years of experience developing spaCy NLP pipelines.</p>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="R icon" class="icon">
+                        <div>
+                            <h3>R</h3>
+                            <p>Experienced</p>
                         </div>
-                    </div>
-                    <div class="tech">
-                        <img src="images/research.png" alt="Icon 1">
-                        <div class="tech-content">
-                            <h3>Research</h3>
-                            <p>Ph.D in History and 2+ years experience as a postdoc in the Smithsonian Institution's Data Science Lab.</p>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="HTML icon" class="icon">
+                        <div>
+                            <h3>HTML</h3>
+                            <p>Intermediate</p>
                         </div>
-                    </div>
-                    <div class="tech">
-                        <img src="images/sna.png" alt="Icon 1">
-                        <div class="tech-content">
-                            <h3>Social Network Analysis</h3>
-                            <p>5+ years of experience doing social network analysis</p>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="CSS icon" class="icon">
+                        <div>
+                            <h3>CSS</h3>
+                            <p>Basic</p>
                         </div>
-                    </div>
-                    <div class="tech">
-                        <img src="images/content.png" alt="Icon 1">
-                        <div class="tech-content">
-                            <h3>Content Producer</h3>
-                            <p>5+ years of experience producing technical content on YouTube.</p>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="JavaScript icon" class="icon">
+                        <div>
+                            <h3>JavaScript</h3>
+                            <p>Basic</p>
                         </div>
-                    </div>
+                    </article>
+                    
                 </div>
             </div>
-        </section>
-
-        <h1>OPEN-SOURCE PROJECTS</h1>
-        <section id="projects">
-          <!-- Project images and links go here -->
-          <div class="project">
-              <a href="https://github.com/wjbmattingly/LeetTopic">
-                  <img src="images/leettopic.png" alt="LeetTopic">
-                  <div class="project-content">
-                      <p>LeetTopic is a transformer-based topic modeling library that lets users cluster documents and analyze the results in an auto-generated stand alone Bokeh application.</p>
-                  </div>
-              </a>
-          </div>
-          <div class="project">
-              <a href="https://github.com/wjbmattingly/streamlit-pandas">
-                  <img src="images/streamlit-pandas.png" alt="Streamlit Pandas">
-                  <div class="project-content">
-                      <p>Streamlit Pandas allows users to automatically generate an entire Streamlit application from a single Pandas DataFrame. Users can specify how to handle specific columns as manipulatable widgets.</p>
-                  </div>
-              </a>
-          </div>
-          <div class="project">
-              <a href="https://github.com/wjbmattingly/ww2-spacy">
-                  <img src="images/ww2-spacy.png" alt="WW2 spaCy">
-                  <div class="project-content">
-                      <p>WW2 spaCy is a rules-based spaCy pipeline for processing WW2 texts. It identifies specific types of military equipment and personnel.</p>
-                  </div>
-              </a>
-          </div>
-          
-      </section>
-      <br>
-      
-        <h1>SELECTED PUBLICATIONS</h1>
-        <section id="publications">
-          <div class="publication">
-            <div class="publication-image">
-              <img src="images/nlp.png" alt="Icon 1">
-            </div>
-            <div class="publication-text">
-              <h3><a href="https://www.routledge.com/Introduction-to-Python-for-Humanists/Mattingly/p/book/9781032378374">Introduction to Python for Humanists</a></h3>
-              <p>This book stems from my open-source textbooks and YouTube videos which teach Python to humanists. This is the print edition. It has a free online edition found <a href="http://python-textbook.pythonhumanities.com/intro.html">here</a>.</p>
-            </div>
-          </div>
-          <div class="publication">
-            <div class="publication-image">
-              <img src="images/research.png" alt="Icon 2">
-            </div>
-            <div class="publication-text">
-              <h3><a href="https://www.journals.uchicago.edu/doi/10.1086/724949">Let the Records Show: Attribution of Scientific Credit in Natural History Collections</a></h3>
-              <p>Natural history collections are essential resources for taxonomy, systematics, and ecological and climate change research. Mass digitization of these collections provides the opportunity to study broad biological patterns among specimens and their associated metadata at a scale that was previously impossible. The specimen metadata can also be used to study the contributions of the people that collected and identified these specimens. A proper accounting of these contributions impacts our understanding of the history of these collections and who played a role in their growth.</p>
-            </div>
-          </div>
-          <div class="publication">
-            <div class="publication-image">
-              <img src="images/research.png" alt="Icon 3">
-            </div>
-            <div class="publication-text">
-              <h3><a href="https://aclanthology.org/2021.acl-demo.3.pdf">The Classical Language Toolkit: An NLP Framework for Pre-Modern Languages</a></h3>
-              <p>This paper announces version 1.0 of the Classical Language Toolkit (CLTK), an NLP framework for pre-modern languages. The vast majority of NLP, its algorithms and software, is created with assumptions particular to living languages, thus neglecting certain important characteristics of largely non-spoken historical languages. Further, scholars of pre-modern languages often have different goals than those of living-language researchers. To fill this void, the CLTK adapts ideas from several leading NLP frameworks to create a novel software architecture that satisfies the unique needs of pre-modern languages and their researchers. Its centerpiece is a modular processing pipeline that balances the competing demands of algorithmic diversity with pre-configured defaults. The CLTK currently provides pipelines, including models, for almost 20 languages.</p>
-            </div>
-          </div>
-          <!-- Repeat for each publication -->
-        </section>
-        
-        
-        
-        
-
-        
-        <h1>RECENT VIDEOS</h1>
-        <section id="videos">
-            <!-- Video thumbnails go here -->
-            <div class="video-carousel" id="video-carousel">
-                <!-- Images and links will be inserted here by JavaScript -->
-            </div>
-        </section>
-        <h1>CONSULTING</h1>
-        <section id="consultation">
-            <p>Dr. Mattingly can be hired as a consultant. He has worked with data scientists, archivists, medical professionals, social scientists, geographers, and historians. He specializes in data cleaning, machine learning, natural language processing, social network analysis, and text analysis. He can read, with varying degrees of competence, over ten languages. He can bring this broad linguistic knowledge and background in machine learning to your project. If you are interested in hiring him, please fill out the form below.</p><br>
-            <div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/6457b6073fed8de0b55c871a3470066b?embedded=1"></div>
-
-            <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
-            <script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
             
-            <!-- Get notified when the form is submitted, add your own code below: -->
-            <script>
-            const formkeepEmbed = document.querySelector('#formkeep-embed')
+        
             
-            formkeepEmbed.addEventListener('formkeep-embed:submitting', _event => {
-              console.log('Submitting form...')
-            })
+            <div class="details-container">
+                <h2 class="experience-sub-title">Natural Language Processing</h2>
+                <div class="article-container">
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="spaCy icon" class="icon">
+                        <div>
+                            <h3>spaCy</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Gensim icon" class="icon">
+                        <div>
+                            <h3>Gensim</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="NLTK icon" class="icon">
+                        <div>
+                            <h3>NLTK</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="OpenAI API icon" class="icon">
+                        <div>
+                            <h3>OpenAI API</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Weaviate icon" class="icon">
+                        <div>
+                            <h3>Weaviate</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                </div>
+            </div>
             
-            formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
-              console.log('Submitted form...')
-            })
-            </script>
+                </div> <!-- Close the about-containers div on the last item or every second category -->
+            
+        
+            
+                
+                    </div> <!-- Close the previous about-containers div if it's not the first loop -->
+                
+                <div class="about-containers"> <!-- Open a new about-containers div every two categories -->
+            
+            <div class="details-container">
+                <h2 class="experience-sub-title">Machine Learning & Data Science</h2>
+                <div class="article-container">
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="PyTorch icon" class="icon">
+                        <div>
+                            <h3>PyTorch</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Tensorflow icon" class="icon">
+                        <div>
+                            <h3>Tensorflow</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Sklearn icon" class="icon">
+                        <div>
+                            <h3>Sklearn</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Matplotlib icon" class="icon">
+                        <div>
+                            <h3>Matplotlib</h3>
+                            <p>Intermediate</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Pandas icon" class="icon">
+                        <div>
+                            <h3>Pandas</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                </div>
+            </div>
+            
+        
+            
+            <div class="details-container">
+                <h2 class="experience-sub-title">Version Control & Project Management</h2>
+                <div class="article-container">
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Git icon" class="icon">
+                        <div>
+                            <h3>Git</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="GitHub icon" class="icon">
+                        <div>
+                            <h3>GitHub</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="HuggingFace icon" class="icon">
+                        <div>
+                            <h3>HuggingFace</h3>
+                            <p>Expert</p>
+                        </div>
+                    </article>
+                    
+                </div>
+            </div>
+            
+                </div> <!-- Close the about-containers div on the last item or every second category -->
+            
+        
+    </div>
+</section>
 
-        </section>
-    </main>
-    
+<!-- DH Projects Section -->
+<!-- <section id="projects">
+    <p class="section__text__p1">Browse My Recent</p>
+    <h1 class="title">Digital Humanities Projects</h1>
+    <div class="experience-details-container">
+        
+        
+    </div>
+</section> -->
+
+<!-- Projects Section -->
+<section id="projects">
+    <p class="section__text__p1">Browse My Recent</p>
+    <h1 class="title">Open Source Projects</h1>
+    <div class="experience-details-container">
+        
+        
+            <div class="about-containers"> <!-- Open a new container for every three projects -->
+                
+                    
+                    
+                        
+                        <div class="details-container color-container">
+                            <div class="article-container">
+                                <img src="https://github.com/theirstory/spacy-whisper/raw/main/images/spacy_whisper.jpeg" alt="spaCy Whisper" class="project-img">
+                            </div>
+                            <h2 class="experience-sub-title project-title">spaCy Whisper</h2>
+                            <div class="btn-container">
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/theirstory/spacy-whisper'">
+                                        GitHub
+                                    </button>
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://theirstory.github.io/spacy-whisper'">
+                                        Live Demo
+                                    </button>
+                                
+                            </div>
+                        </div>
+                    
+                
+                    
+                    
+                        
+                        <div class="details-container color-container">
+                            <div class="article-container">
+                                <img src="https://github.com/wjbmattingly/streamlit-pandas/blob/main/images/streamlit-pandas-app.jpg?raw=true" alt="Streamlit Pandas" class="project-img">
+                            </div>
+                            <h2 class="experience-sub-title project-title">Streamlit Pandas</h2>
+                            <div class="btn-container">
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/wjbmattingly/streamlit-pandas'">
+                                        GitHub
+                                    </button>
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://wjbmattingly.github.io/streamlit-pandas'">
+                                        Live Demo
+                                    </button>
+                                
+                            </div>
+                        </div>
+                    
+                
+                    
+                    
+                        
+                        <div class="details-container color-container">
+                            <div class="article-container">
+                                <img src="https://github.com/wjbmattingly/ww2-spacy/blob/main/images/logo.png?raw=true" alt="WW2 spaCy" class="project-img">
+                            </div>
+                            <h2 class="experience-sub-title project-title">WW2 spaCy</h2>
+                            <div class="btn-container">
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/wjbmattingly/ww2-spacy'">
+                                        GitHub
+                                    </button>
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://wjbmattingly.github.io/ww2-spacy'">
+                                        Live Demo
+                                    </button>
+                                
+                            </div>
+                        </div>
+                    
+                
+            </div> <!-- Close the container after every three projects or the last one with less than three -->
+        
+            <div class="about-containers"> <!-- Open a new container for every three projects -->
+                
+                    
+                    
+                        
+                        <div class="details-container color-container">
+                            <div class="article-container">
+                                <img src="https://github.com/wjbmattingly/LeetTopic/blob/main/images/demo.png?raw=true" alt="LeetTopic" class="project-img">
+                            </div>
+                            <h2 class="experience-sub-title project-title">LeetTopic</h2>
+                            <div class="btn-container">
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/wjbmattingly/leettopic'">
+                                        GitHub
+                                    </button>
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://wjbmattingly.github.io/leettopic'">
+                                        Live Demo
+                                    </button>
+                                
+                            </div>
+                        </div>
+                    
+                
+                    
+                    
+                        
+                        <div class="details-container color-container">
+                            <div class="article-container">
+                                <img src="https://github.com/sidatasciencelab/gender-spacy/raw/main/images/demo.JPG" alt="Gender spaCy" class="project-img">
+                            </div>
+                            <h2 class="experience-sub-title project-title">Gender spaCy</h2>
+                            <div class="btn-container">
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/sidatasciencelab/gender-spacy'">
+                                        GitHub
+                                    </button>
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/sidatasciencelab/gender-spacy'">
+                                        Live Demo
+                                    </button>
+                                
+                            </div>
+                        </div>
+                    
+                
+                    
+                    
+                        
+                        <div class="details-container color-container">
+                            <div class="article-container">
+                                <img src="https://github.com/wjbmattingly/LeetTopic/blob/main/images/demo.png?raw=true" alt="Gliner spaCy" class="project-img">
+                            </div>
+                            <h2 class="experience-sub-title project-title">Gliner spaCy</h2>
+                            <div class="btn-container">
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/theirstory/gliner-spacy'">
+                                        GitHub
+                                    </button>
+                                
+                                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/theirstory/gliner-spacy'">
+                                        Live Demo
+                                    </button>
+                                
+                            </div>
+                        </div>
+                    
+                
+            </div> <!-- Close the container after every three projects or the last one with less than three -->
+        
+    </div>
+</section>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<section>
     <footer>
-        <!-- Footer content goes here -->
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <p>Copyright © 2024 WJB Mattingly. All Rights Reserved.</p>
     </footer>
-    <script src="carousel.js"></script>
-    <script src="loadVideos.js"></script>
+    <script src="script.js"></script>
+</section>
 </body>
 </html>
