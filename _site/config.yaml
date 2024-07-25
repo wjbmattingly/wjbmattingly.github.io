@@ -1,0 +1,199 @@
+title: "Dr. WJB Mattingly"
+stylesheets:
+  - "style.css"
+  - "mediaqueries.css"
+javascript:
+  - "script.js"
+
+navigation:
+  desktop:
+    logo: "William Mattingly, PhD"
+    links:
+      - name: "About"
+        href: "#about"
+      - name: "Experience"
+        href: "#experience"
+      - name: "Projects"
+        href: "#projects"
+      - name: "Contact"
+        href: "#contact"
+  mobile:
+    logo: "WJB Mattingly"
+    menu_items:
+      - name: "About"
+        href: "#about"
+      - name: "Experience"
+        href: "#experience"
+      - name: "Projects"
+        href: "#projects"
+      - name: "Contact"
+        href: "#contact"
+
+profile:
+  image: "./assets/wjb_mattingly.png"
+  title: "William Mattingly, PhD"
+  subtitle: "Natural Language Processing Engineer"
+  buttons:
+    # - text: "Download CV"
+    #   action: "./assets/resume-example.pdf"
+    - text: "Smithsonian"
+      action: "https://datascience.si.edu/people/dr-william-mattingly"
+    - text: "YouTube"
+      action: "https://www.youtube.com/pythontutorialsfordigitalhumanities"
+  social_media:
+    - platform: "LinkedIn"
+      icon: "./assets/linkedin.png"
+      link: "https://www.linkedin.com/in/wjbmattingly/"
+    - platform: "GitHub"
+      icon: "./assets/github.png"
+      link: "https://wjbmattingly.github.com/"
+
+skills:
+  - category: "Programming"
+    skills:
+      - name: "Python"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "R"
+        level: "Experienced"
+        icon: "./assets/checkmark.png"
+      - name: "HTML"
+        level: "Intermediate"
+        icon: "./assets/checkmark.png"
+      - name: "CSS"
+        level: "Basic"
+        icon: "./assets/checkmark.png"
+      - name: "JavaScript"
+        level: "Basic"
+        icon: "./assets/checkmark.png"
+
+  - category: "Natural Language Processing"
+    skills:
+      - name: "spaCy"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "Gensim"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "NLTK"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "OpenAI API"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "Weaviate"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+
+  - category: "Machine Learning & Data Science"
+    skills:
+      - name: "PyTorch"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "Tensorflow"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "Sklearn"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "Matplotlib"
+        level: "Intermediate"
+        icon: "./assets/checkmark.png"
+      - name: "Pandas"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+
+  - category: "Version Control & Project Management"
+    skills:
+      - name: "Git"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "GitHub"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+      - name: "HuggingFace"
+        level: "Expert"
+        icon: "./assets/checkmark.png"
+
+# dh_projects:
+#   - name: "Bitter Aloe Project"
+#     image: "https://github.com/theirstory/spacy-whisper/raw/main/images/spacy_whisper.jpeg"
+#     actions:
+#       - text: "GitHub"
+#         link: "https://github.com/theirstory/spacy-whisper"
+#       - text: "Live Demo"
+#         link: "https://theirstory.github.io/spacy-whisper"
+
+#   - name: "Placing the Holocaust"
+#     image: "https://github.com/wjbmattingly/streamlit-pandas/blob/main/images/streamlit-pandas-app.jpg?raw=true"
+#     actions:
+#       - text: "GitHub"
+#         link: "https://github.com/wjbmattingly/streamlit-pandas"
+#       - text: "Live Demo"
+#         link: "https://wjbmattingly.github.io/streamlit-pandas"
+#   - name: "Python Tutorials for DH"
+#     image: "https://github.com/wjbmattingly/ww2-spacy/blob/main/images/logo.png?raw=true"
+#     actions:
+#       - text: "GitHub"
+#         link: "https://github.com/wjbmattingly/ww2-spacy"
+#       - text: "Live Demo"
+#         link: "https://wjbmattingly.github.io/ww2-spacy"
+
+projects:
+  - name: "spaCy Whisper"
+    image: "https://github.com/theirstory/spacy-whisper/raw/main/images/spacy_whisper.jpeg"
+    actions:
+      - text: "GitHub"
+        link: "https://github.com/theirstory/spacy-whisper"
+      - text: "Live Demo"
+        link: "https://theirstory.github.io/spacy-whisper"
+
+  - name: "Streamlit Pandas"
+    image: "https://github.com/wjbmattingly/streamlit-pandas/blob/main/images/streamlit-pandas-app.jpg?raw=true"
+    actions:
+      - text: "GitHub"
+        link: "https://github.com/wjbmattingly/streamlit-pandas"
+      - text: "Live Demo"
+        link: "https://wjbmattingly.github.io/streamlit-pandas"
+  - name: "WW2 spaCy"
+    image: "https://github.com/wjbmattingly/ww2-spacy/blob/main/images/logo.png?raw=true"
+    actions:
+      - text: "GitHub"
+        link: "https://github.com/wjbmattingly/ww2-spacy"
+      - text: "Live Demo"
+        link: "https://wjbmattingly.github.io/ww2-spacy"
+  - name: "LeetTopic"
+    image: "https://github.com/wjbmattingly/LeetTopic/blob/main/images/demo.png?raw=true"
+    actions:
+      - text: "GitHub"
+        link: "https://github.com/wjbmattingly/leettopic"
+      - text: "Live Demo"
+        link: "https://wjbmattingly.github.io/leettopic"
+  - name: "Gender spaCy"
+    image: "https://github.com/sidatasciencelab/gender-spacy/raw/main/images/demo.JPG"
+    actions:
+      - text: "GitHub"
+        link: "https://github.com/sidatasciencelab/gender-spacy"
+      - text: "Live Demo"
+        link: "https://github.com/sidatasciencelab/gender-spacy"
+  - name: "Gliner spaCy"
+    image: "https://github.com/wjbmattingly/LeetTopic/blob/main/images/demo.png?raw=true"
+    actions:
+      - text: "GitHub"
+        link: "https://github.com/theirstory/gliner-spacy"
+      - text: "Live Demo"
+        link: "https://github.com/theirstory/gliner-spacy"
+about:
+  image: "./assets/about-me.png"
+  text: I develop ethical AI systems for historical archives. My primary area of research is applied machine learning to archival records. I focus on the application of natural language processing methods on multilingual archives. At the Bitter Aloe Project, I am developing methods for knowledge extraction from documents produced by the South African Truth and Reconciliation Commission (TRC). At the United States Holocaust Memorial Museum, I am exploring how we can develop semantic search to allow researchers to discover documents more effectively. At the Smithsonian, I developing methods for identifying women in records.
+  details:
+    - title: "Experience"
+      icon: "./assets/experience.png"
+      description: "5+ years<br>Natural Language Processing Engineer and Project Leader"
+    - title: "Education"
+      icon: "./assets/education.png"
+      description: "PhD in History<br>M.A. in History<br>B.A. in History"
+
+
+footer:
+  copyright: "Copyright © 2024 WJB Mattingly. All Rights Reserved."

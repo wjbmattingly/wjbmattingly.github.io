@@ -1,0 +1,174 @@
+[
+  
+  {
+    "title": "NER in the Age of LLMs",
+    "url": "/posts/ner-in-the-age-of-llms/",
+    "categories": "nlp, data science, machine learning",
+    "tags": "",
+    "date": "2024-09-30 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Building Machine Learning Pipelines for Institutions",
+    "url": "/posts/building-machine-learning-pipelines-for-institutions/",
+    "categories": "library sciences, data science, machine learning",
+    "tags": "",
+    "date": "2024-08-19 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Ethics and AI",
+    "url": "/posts/ethics-and-ai/",
+    "categories": "ethics, machine learning",
+    "tags": "",
+    "date": "2024-08-06 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Introduction to Retrieval Augmented Generation",
+    "url": "/posts/retrieval-augmented-generation/",
+    "categories": "nlp, machine learning",
+    "tags": "",
+    "date": "2024-07-22 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Introduction to Retrieval Augmented GenerationLLMs have two major limitations: Their training data is fixed and they have the potential to hallucinate. In this course you will learn how to address ...",
+    "content": "Introduction to Retrieval Augmented GenerationLLMs have two major limitations: Their training data is fixed and they have the potential to hallucinate. In this course you will learn how to address these issues with retrieval augmented generation(RAG). RAG systems combine vector databases with large language models. They let the user pose a question which then retrieves the relevant material from a vector database. These two things are combined and given to a large language model to frame a domain-specific and up-to-date response. You will learn these concepts and build your own RAG applications, specifically with Verba.July 29, 31, August 21 - 2:30 pm EDT"
+  },
+  
+  {
+    "title": "Introduction to Vector Databases and Semantic Searching",
+    "url": "/posts/vector-databases-and-semantic-search/",
+    "categories": "nlp, machine learning",
+    "tags": "",
+    "date": "2024-07-22 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "Introduction to Vector Databases and Semantic SearchingIn this course, you will learn the fundamentals of vector databases, which have become increasingly popular over the last few years. You will ...",
+    "content": "Introduction to Vector Databases and Semantic SearchingIn this course, you will learn the fundamentals of vector databases, which have become increasingly popular over the last few years. You will learn what they are, how they work, and, most importantly, how to build them. You will build local vector databases and learn to create cloud-based ones. We will also cover the basics of semantic searching, its advantages and disadvantages, and ways to perform semantic search on local and cloud-based vector databases.July 22, 24, 261 - 2:30 pm EDT"
+  },
+  
+  {
+    "title": "spaCy in the World of LLMs",
+    "url": "/posts/spacy-in-the-world-of-llms/",
+    "categories": "nlp, machine learning",
+    "tags": "",
+    "date": "2024-07-15 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "spaCy in the World of LLMsPast TAP Institute courses have focused on spaCy. Over the last year, however, large language models (LLMs) have radically changed the natural language processing (NLP) la...",
+    "content": "spaCy in the World of LLMsPast TAP Institute courses have focused on spaCy. Over the last year, however, large language models (LLMs) have radically changed the natural language processing (NLP) landscape. This course teaches students the basics of spaCy within this new world. We will focus on the key aspects of spaCy while also considering its advantages and disadvantages in 2024.July 15, 17, 191 - 2:30 pm EDT"
+  },
+  
+  {
+    "title": "Gender spaCY",
+    "url": "/posts/gliner-spacy/",
+    "categories": "python package, nlp",
+    "tags": "",
+    "date": "2024-07-15 00:00:00 -0400",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Medieval Data",
+    "url": "/posts/medieval-data/",
+    "categories": "dataset, machine learning model",
+    "tags": "",
+    "date": "2023-12-20 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Bitter Aloe Project",
+    "url": "/posts/bitter-aloe-project/",
+    "categories": "digital humanities project",
+    "tags": "",
+    "date": "2023-12-20 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "LeetTopic",
+    "url": "/posts/leet-topic/",
+    "categories": "python package, nlp",
+    "tags": "",
+    "date": "2023-01-15 00:00:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  }
+  
+]
+

@@ -1,0 +1,157 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>William Mattingly</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-07-24T20:50:43-04:00</updated>
+  <author>
+    <name>William J.B. Mattingly</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 William J.B. Mattingly </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>NER in the Age of LLMs</title>
+    <link href="http://localhost:4000/posts/ner-in-the-age-of-llms/" rel="alternate" type="text/html" title="NER in the Age of LLMs" />
+    <published>2024-09-30T00:00:00-04:00</published>
+  
+    <updated>2024-09-30T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/ner-in-the-age-of-llms/</id>
+    <content src="http://localhost:4000/posts/ner-in-the-age-of-llms/" />
+    <author>
+      <name>william</name>
+    </author>
+
+  
+    
+    <category term="nlp" />
+    
+    <category term="data science" />
+    
+    <category term="machine learning" />
+    
+  
+
+  <summary>Discussion of how large language models have redefined the multilingual natural language processing landscape.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Building Machine Learning Pipelines for Institutions</title>
+    <link href="http://localhost:4000/posts/building-machine-learning-pipelines-for-institutions/" rel="alternate" type="text/html" title="Building Machine Learning Pipelines for Institutions" />
+    <published>2024-08-19T00:00:00-04:00</published>
+  
+    <updated>2024-08-19T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/building-machine-learning-pipelines-for-institutions/</id>
+    <content src="http://localhost:4000/posts/building-machine-learning-pipelines-for-institutions/" />
+    <author>
+      <name>william</name>
+    </author>
+
+  
+    
+    <category term="library sciences" />
+    
+    <category term="data science" />
+    
+    <category term="machine learning" />
+    
+  
+
+  <summary>The lessons I have learned while building machine learning pipelines for institutions.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Ethics and AI</title>
+    <link href="http://localhost:4000/posts/ethics-and-ai/" rel="alternate" type="text/html" title="Ethics and AI" />
+    <published>2024-08-06T00:00:00-04:00</published>
+  
+    <updated>2024-08-06T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/ethics-and-ai/</id>
+    <content src="http://localhost:4000/posts/ethics-and-ai/" />
+    <author>
+      <name>william</name>
+    </author>
+
+  
+    
+    <category term="ethics" />
+    
+    <category term="machine learning" />
+    
+  
+
+  <summary>A discussion of how ethics should shape the machine learning landscape - a case study of South African archives.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Introduction to Retrieval Augmented Generation</title>
+    <link href="http://localhost:4000/posts/retrieval-augmented-generation/" rel="alternate" type="text/html" title="Introduction to Retrieval Augmented Generation" />
+    <published>2024-07-22T00:00:00-04:00</published>
+  
+    <updated>2024-07-22T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/retrieval-augmented-generation/</id>
+    <content src="http://localhost:4000/posts/retrieval-augmented-generation/" />
+    <author>
+      <name>william</name>
+    </author>
+
+  
+    
+    <category term="nlp" />
+    
+    <category term="machine learning" />
+    
+  
+
+  <summary>Exploring how to Build and Productionize Retrieval Augmented Generation (RAG) Systems</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Introduction to Vector Databases and Semantic Searching</title>
+    <link href="http://localhost:4000/posts/vector-databases-and-semantic-search/" rel="alternate" type="text/html" title="Introduction to Vector Databases and Semantic Searching" />
+    <published>2024-07-22T00:00:00-04:00</published>
+  
+    <updated>2024-07-22T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4000/posts/vector-databases-and-semantic-search/</id>
+    <content src="http://localhost:4000/posts/vector-databases-and-semantic-search/" />
+    <author>
+      <name>william</name>
+    </author>
+
+  
+    
+    <category term="nlp" />
+    
+    <category term="machine learning" />
+    
+  
+
+  <summary>An exploration of Vector Databases and their Applications in the Real World</summary>
+
+  </entry>
+
+</feed>
+
+
