@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>wjbmattingly.github.io/</id>
   <title>William Mattingly</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-07-24T21:48:52-04:00</updated>
+  <updated>2024-07-24T22:16:39-04:00</updated>
   <author>
     <name>William J.B. Mattingly</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>wjbmattingly.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="wjbmattingly.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="wjbmattingly.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 William J.B. Mattingly </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>NER in the Age of LLMs</title>
-    <link href="http://localhost:4000/posts/ner-in-the-age-of-llms/" rel="alternate" type="text/html" title="NER in the Age of LLMs" />
+    <link href="wjbmattingly.github.io/posts/ner-in-the-age-of-llms/" rel="alternate" type="text/html" title="NER in the Age of LLMs" />
     <published>2024-09-30T00:00:00-04:00</published>
   
     <updated>2024-09-30T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/ner-in-the-age-of-llms/</id>
-    <content src="http://localhost:4000/posts/ner-in-the-age-of-llms/" />
+    <id>wjbmattingly.github.io/posts/ner-in-the-age-of-llms/</id>
+    <content src="wjbmattingly.github.io/posts/ner-in-the-age-of-llms/" />
     <author>
       <name>william</name>
     </author>
@@ -49,13 +49,13 @@
   
   <entry>
     <title>Building Machine Learning Pipelines for Institutions</title>
-    <link href="http://localhost:4000/posts/building-machine-learning-pipelines-for-institutions/" rel="alternate" type="text/html" title="Building Machine Learning Pipelines for Institutions" />
+    <link href="wjbmattingly.github.io/posts/building-machine-learning-pipelines-for-institutions/" rel="alternate" type="text/html" title="Building Machine Learning Pipelines for Institutions" />
     <published>2024-08-19T00:00:00-04:00</published>
   
     <updated>2024-08-19T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/building-machine-learning-pipelines-for-institutions/</id>
-    <content src="http://localhost:4000/posts/building-machine-learning-pipelines-for-institutions/" />
+    <id>wjbmattingly.github.io/posts/building-machine-learning-pipelines-for-institutions/</id>
+    <content src="wjbmattingly.github.io/posts/building-machine-learning-pipelines-for-institutions/" />
     <author>
       <name>william</name>
     </author>
@@ -77,13 +77,13 @@
   
   <entry>
     <title>Ethics and AI</title>
-    <link href="http://localhost:4000/posts/ethics-and-ai/" rel="alternate" type="text/html" title="Ethics and AI" />
+    <link href="wjbmattingly.github.io/posts/ethics-and-ai/" rel="alternate" type="text/html" title="Ethics and AI" />
     <published>2024-08-06T00:00:00-04:00</published>
   
     <updated>2024-08-06T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/ethics-and-ai/</id>
-    <content src="http://localhost:4000/posts/ethics-and-ai/" />
+    <id>wjbmattingly.github.io/posts/ethics-and-ai/</id>
+    <content src="wjbmattingly.github.io/posts/ethics-and-ai/" />
     <author>
       <name>william</name>
     </author>
@@ -103,13 +103,13 @@
   
   <entry>
     <title>Introduction to Retrieval Augmented Generation</title>
-    <link href="http://localhost:4000/posts/retrieval-augmented-generation/" rel="alternate" type="text/html" title="Introduction to Retrieval Augmented Generation" />
+    <link href="wjbmattingly.github.io/posts/retrieval-augmented-generation/" rel="alternate" type="text/html" title="Introduction to Retrieval Augmented Generation" />
     <published>2024-07-22T00:00:00-04:00</published>
   
     <updated>2024-07-22T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/retrieval-augmented-generation/</id>
-    <content src="http://localhost:4000/posts/retrieval-augmented-generation/" />
+    <id>wjbmattingly.github.io/posts/retrieval-augmented-generation/</id>
+    <content src="wjbmattingly.github.io/posts/retrieval-augmented-generation/" />
     <author>
       <name>william</name>
     </author>
@@ -129,13 +129,13 @@
   
   <entry>
     <title>Introduction to Vector Databases and Semantic Searching</title>
-    <link href="http://localhost:4000/posts/vector-databases-and-semantic-search/" rel="alternate" type="text/html" title="Introduction to Vector Databases and Semantic Searching" />
+    <link href="wjbmattingly.github.io/posts/vector-databases-and-semantic-search/" rel="alternate" type="text/html" title="Introduction to Vector Databases and Semantic Searching" />
     <published>2024-07-22T00:00:00-04:00</published>
   
     <updated>2024-07-22T00:00:00-04:00</updated>
   
-    <id>http://localhost:4000/posts/vector-databases-and-semantic-search/</id>
-    <content src="http://localhost:4000/posts/vector-databases-and-semantic-search/" />
+    <id>wjbmattingly.github.io/posts/vector-databases-and-semantic-search/</id>
+    <content src="wjbmattingly.github.io/posts/vector-databases-and-semantic-search/" />
     <author>
       <name>william</name>
     </author>
