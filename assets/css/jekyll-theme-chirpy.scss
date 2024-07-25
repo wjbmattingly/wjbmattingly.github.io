@@ -1,9 +1,8 @@
 ---
 ---
 
+$bootstrap-sass-asset-helper: false;
 @import "bootstrap";
-
-// Import main stylesheet
 @import "main";
 
-// append your custom style below
+// Your custom styles below this line
